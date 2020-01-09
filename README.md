@@ -84,6 +84,7 @@ Jan, Monday 20th 17:00-17:30 **Group 6**
 * Workflow 
 * Product Backlog and Risks
 * Challenges, limitations
+* Results
 * Insights 
 * Learnings 
 * Possible future improvements 
