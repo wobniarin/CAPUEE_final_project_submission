@@ -46,7 +46,7 @@ You should record a short video (2' approx) explaining your project and showing 
 \[X] Scripts
 
 ## Schedule 
- ### **Deliverables submission deadline**: 10th/January/2020 23:59
+ ### **Deliverables submission deadline**: 13th/January/2020 23:59
  ### **Submission portal:** Github - ZIP file Upload 
  
 
