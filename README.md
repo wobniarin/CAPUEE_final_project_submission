@@ -60,17 +60,7 @@ All oral presentations will take place at **LS5 Room**.
 
 ## Schedule 
 
-Jan, Wednesday 15th 15:30-16:00 **Group 3** 
 
-Jan, Monday 20th 11:30-12:00 **Group 2**
-
-Jan, Monday 20th 12:00-12:30 **Group 1**
-
-Jan, Monday 20th 12:30-13:00 **Group 5**
-
-Jan, Monday 20th 13:00-13:30 **Group 4**
-
-Jan, Monday 20th 17:00-17:30 **Group 6**
 
 
 **Please, you should be outside of the room 10' before your timeslot. Thanks!**
